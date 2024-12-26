@@ -1,0 +1,20 @@
+# Flask for the backend web framework
+flask
+
+# Requests for handling HTTP requests
+requests
+
+# GeoPandas for geospatial data manipulation
+geopandas
+
+# Skyfield for satellite orbit calculations
+skyfield
+
+# APScheduler for scheduling tasks (e.g., sending notifications)
+apscheduler
+
+# SendGrid for email notifications (optional)
+sendgrid
+
+# Firebase Admin SDK for push notifications via Firebase (optional)
+firebase-admin
